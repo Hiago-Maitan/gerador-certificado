@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { SecondaryButton } from '../../app/_components/secondary-button/secondary-button';
-import { PrimaryButton } from '../../app/_components/primary-button/primary-button';
+import { SecondaryButton } from '../../_components/secondary-button/secondary-button';
+import { PrimaryButton } from '../../_components/primary-button/primary-button';
 
 @Component({
   selector: 'app-certificao-form',
